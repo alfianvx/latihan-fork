@@ -8,3 +8,6 @@ pilih karir awal sebagai front end
 - belajar design system
 - keep learning
 - find motivation
+
+belajar backend 
+- dimulai dari node js
